@@ -11,6 +11,7 @@
  - Open the project and work on it
  - Add me plus all other peers in our bootcamp as contributors
  
+## Note: The Dark Color has already been added to project as PrimaryColor = Color(0xFF03111C). So you can reuse it.
  
 ## Design
 - https://www.behance.net/gallery/158544901/MyNote-Note-Taking-App-UI?tracking_source=search_projects%7Csimple+note+app
